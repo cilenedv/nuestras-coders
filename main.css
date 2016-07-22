@@ -1,0 +1,33 @@
+.linea{
+	width: 50px;
+	background-color: black;
+	border:2px solid;
+}
+.galeria{
+	width: 50%;
+	margin: 0 auto;
+}
+.uno{
+	position: relative;
+	display: inline-block;
+	width:211px;
+	height: 211px;
+	margin: 2px;
+	top:20px;
+	background: rgba(0,0,0, 0.8);
+}
+p{
+	color:#FFFFFF;
+	position:absolute;
+	right: 0px;
+	bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.overlay{
+	width:211px;
+	height: 211px;
+	opacity: 0.5;
+
+
+}
